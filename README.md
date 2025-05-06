@@ -44,6 +44,7 @@ The original dataset were obtained from an insurance company and includes data o
 
 ## Author
 [Oluwaseun Alonge](www.linkedin.com/in/oluwaseun-alonge)\
+
 You can also read the full article about this project on Medium
 
  
