@@ -43,7 +43,7 @@ Click 👉 [here](https://drive.google.com/drive/folders/1XFBOXMf5gpztES5nJtlvI9
 The original dataset were obtained from an insurance company and includes data on car insurance claims by customers. Due to privacy considerations, the dataset has been anonymized and sanitized.
 
 ## Author
-[Oluwaseun Alonge](www.linkedin.com/in/oluwaseun-alonge)\
+[Oluwaseun Alonge](www.linkedin.com/in/oluwaseun-alonge)
 
 You can also read the full article about this project on Medium
 
