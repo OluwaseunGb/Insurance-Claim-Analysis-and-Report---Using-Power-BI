@@ -31,10 +31,14 @@ Click 👉 [here](https://drive.google.com/drive/folders/1XFBOXMf5gpztES5nJtlvI9
 - DAX Measures to identify trends and risk considerations for various coverage zones.\
 4. Policyholder Analysis and Risk Assessment:
 - DAX Measures to personal circumstances of policyholders influence vulnerability to vehiclular risks and utimately, insurance claims.
+
+## Tools
+- Microsoft PowerBI
+- DAX Studio
   
 ## Instructions
 1. Clone or download the repositiory to your local computer.
-2. Import the dataset to clean and transfrom the data using Power Query editor. Refer to the project brief for description of table structure and column definitions.
+2. Import the dataset to clean and transform the data using Power Query editor. See project brief for table structure and column definitions.
 3. Load the transformed data into PowerBI and create the data model.
 4. Execute the DAX measure to analyse the data and create visuals to review the results.
 5. Build the BI report to summarize insights and provide recommendations.
