@@ -24,7 +24,7 @@ Click 👉 [here](https://drive.google.com/drive/folders/1XFBOXMf5gpztES5nJtlvI9
 
 ## Project Objectives
 1. Demographic Analysis:
-- Measures to understand distirbution of policyholders across demographic factors.\
+- Measures to understand distribution of policyholders across demographic factors.\
 2. Claim Frequency and Amount Analysis:
 - DAX Measures to analyse claim amount and frequency across different demographic groups.\
 3. Geographic Analysis:
